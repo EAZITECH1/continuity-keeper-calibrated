@@ -10,7 +10,7 @@
 | Blobs on Mainnet | 17 (13 canon · 2 chronicle · 2 meta) |
 | Network | Mainnet |
 | Demo video | [I Corrected One Fact in Claude Code. Codex Remembered It.](https://www.youtube.com/watch?v=kas0uM6i0yc) |
-| Article | `<FILL: Medium>` |
+| Article | [Every new AI session started from zero until I fixed it with Walrus Memory](https://medium.com/@ajayiisrael523/every-new-ai-session-started-from-zero-until-i-fixed-it-with-walrus-memory-784e68df004b) |
 | Issue filed | [MemWal#729](https://github.com/MystenLabs/MemWal/issues/729) |
 
 ## Checklist
