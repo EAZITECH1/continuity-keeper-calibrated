@@ -21,11 +21,11 @@ Nothing here asks you to take my word for it.
 | | |
 |---|---|
 | Blobs on Mainnet | **17** — 13 canon, 2 chronicle, 2 meta |
-| Agent ID | `<FILL: MEMWAL_AGENT_ID>` |
-| MemWalAccount | `<FILL: suiscan link>` |
+| Agent ID | `93bca773f02940998084a169d40663f4a986aa0d59f4528efcef53747816f378` |
+| MemWalAccount | [`0x5d253ff9…`](https://suiscan.xyz/mainnet/object/0x5d253ff944ef3e1fa3b5f7bed097da86675a05f138d123a22a9d1ecd453c58f1) |
 | Namespaces | `walrus-notes::canon` · `::chronicle` · `::meta` |
 | Issue filed during the build | [MemWal#729](https://github.com/MystenLabs/MemWal/issues/729) |
-| Demo video | `<FILL>` |
+| Demo video | [I Corrected One Fact in Claude Code. Codex Remembered It.](https://www.youtube.com/watch?v=kas0uM6i0yc) |
 | Article | `<FILL: Medium link>` |
 
 ---
