@@ -16,7 +16,7 @@ survive the session, the app, and the vendor.
 | 🎬 Demo | [I Corrected One Fact in Claude Code. Codex Remembered It.](https://www.youtube.com/watch?v=kas0uM6i0yc) |
 | ⛓️ On-chain account | [`MemWalAccount` on Suiscan](https://suiscan.xyz/mainnet/object/0x5d253ff944ef3e1fa3b5f7bed097da86675a05f138d123a22a9d1ecd453c58f1) — active, delegate key registered |
 | 🧠 Blobs | **17** on Mainnet, written while drafting a real article — not a seeding script. [Every blob ID ↓](evidence/blobs.md) |
-| 🐛 Issue filed during the build | [MemWal#729](https://github.com/MystenLabs/MemWal/issues/729) — `analyze` double-write, with reproduction |
+| 🐛 Issues filed during the build | [MemWal#729](https://github.com/MystenLabs/MemWal/issues/729) (**closed as completed**) and [#762](https://github.com/MystenLabs/MemWal/issues/762), both with reproductions — [all feedback ↓](feedback/) |
 
 Nothing here asks you to take my word for it:
 
@@ -150,7 +150,7 @@ the calibration, and refused a contradiction. Long prompts usually lose discipli
 | [evidence/session-excerpts.md](evidence/session-excerpts.md) | Verbatim: the guard firing against my own canon, the supersession receipt, the cross-client run |
 | [evidence/article-drafted-by-prompt.md](evidence/article-drafted-by-prompt.md) | The 1,290-word explainer the prompt produced |
 | [evidence/article-published.md](evidence/article-published.md) | My write-up of using it |
-| [feedback/memwal-issue-729.md](feedback/memwal-issue-729.md) | The issue filed during the build |
+| [feedback/](feedback/) | Two issues filed during the build, plus four earlier ones and the rule each produced |
 | [prior-work.md](prior-work.md) | Credit, and what this edition adopts rather than reinvents |
 
 ---
@@ -179,7 +179,7 @@ the two verification items still open, and refused to write that Walrus fully re
 - [x] Agent ID and blob count recorded — table above
 - [x] Dedicated Sessions wallet address
 - [x] Demo video — [YouTube](https://www.youtube.com/watch?v=kas0uM6i0yc)
-- [x] Feedback / GitHub issue on MystenLabs/MemWal — [#729](https://github.com/MystenLabs/MemWal/issues/729)
+- [x] Feedback / GitHub issues on MystenLabs/MemWal — [#729](https://github.com/MystenLabs/MemWal/issues/729) (closed as completed) and [#762](https://github.com/MystenLabs/MemWal/issues/762)
 - [x] Written blog explaining use and problems solved — [`evidence/article-published.md`](evidence/article-published.md)
 - [x] Article published to Medium — [link](https://medium.com/@ajayiisrael523/every-new-ai-session-started-from-zero-until-i-fixed-it-with-walrus-memory-784e68df004b)
 - [ ] Entered on the DeepSurge form

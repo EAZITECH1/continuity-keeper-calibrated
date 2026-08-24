@@ -11,7 +11,7 @@
 | Network | Mainnet |
 | Demo video | [I Corrected One Fact in Claude Code. Codex Remembered It.](https://www.youtube.com/watch?v=kas0uM6i0yc) |
 | Article | [Every new AI session started from zero until I fixed it with Walrus Memory](https://medium.com/@ajayiisrael523/every-new-ai-session-started-from-zero-until-i-fixed-it-with-walrus-memory-784e68df004b) |
-| Issue filed | [MemWal#729](https://github.com/MystenLabs/MemWal/issues/729) |
+| Issues filed | [MemWal#729](https://github.com/MystenLabs/MemWal/issues/729) (closed as completed) · [#762](https://github.com/MystenLabs/MemWal/issues/762) |
 
 ## Checklist
 
@@ -21,7 +21,7 @@
 - [x] Agent ID + blob count recorded (see table above) — still to enter in the DeepSurge form
 - [x] Dedicated Sessions wallet address
 - [x] Written blog explaining use and problems solved
-- [x] Feedback / GitHub issue on MystenLabs/MemWal
+- [x] Feedback / GitHub issues on MystenLabs/MemWal — #729, #762
 - [ ] Walrus Discord joined
 - [x] Demo video recorded — [YouTube](https://www.youtube.com/watch?v=kas0uM6i0yc)
 - [ ] Demo video posted with #Walrus on X
