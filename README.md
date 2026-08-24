@@ -30,6 +30,8 @@ Nothing here asks you to take my word for it:
 | MemWalAccount | [`0x5d253ff9…`](https://suiscan.xyz/mainnet/object/0x5d253ff944ef3e1fa3b5f7bed097da86675a05f138d123a22a9d1ecd453c58f1) |
 | Sessions wallet | `0x9efad55f790d1f38647c565aa564cb381e145d3e7b635bb0538fcc0429f55a34` |
 | Namespaces | `walrus-notes::canon` · `::chronicle` · `::meta` |
+| MemWal package | `0xe7c16fbea0560e7057e2bf7422feaa4fb313749fc69c9e9092fac7a33b81d7f5` |
+| Submission | [DeepSurge](https://www.deepsurge.xyz/projects/fc7587bf-8c8f-4656-bcb1-25bf2b34d3f9) |
 | Article | [Every new AI session started from zero until I fixed it with Walrus Memory](https://medium.com/@ajayiisrael523/every-new-ai-session-started-from-zero-until-i-fixed-it-with-walrus-memory-784e68df004b) |
 
 ---
@@ -182,7 +184,7 @@ the two verification items still open, and refused to write that Walrus fully re
 - [x] Feedback / GitHub issues on MystenLabs/MemWal — [#729](https://github.com/MystenLabs/MemWal/issues/729) (closed as completed) and [#762](https://github.com/MystenLabs/MemWal/issues/762)
 - [x] Written blog explaining use and problems solved — [`evidence/article-published.md`](evidence/article-published.md)
 - [x] Article published to Medium — [link](https://medium.com/@ajayiisrael523/every-new-ai-session-started-from-zero-until-i-fixed-it-with-walrus-memory-784e68df004b)
-- [ ] Entered on the DeepSurge form
-- [ ] Submitted via Airtable **and** WalForm (positions 8–10 are WalForm-exclusive)
-- [ ] Demo posted with #Walrus on X
-- [ ] Walrus Discord joined
+- [x] Entered on the DeepSurge form — [project page](https://www.deepsurge.xyz/projects/fc7587bf-8c8f-4656-bcb1-25bf2b34d3f9)
+- [x] Submitted via Airtable **and** WalForm
+- [x] Demo posted with #Walrus on X
+- [x] Walrus Discord joined

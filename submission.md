@@ -9,6 +9,8 @@
 | Sessions wallet | `0x9efad55f790d1f38647c565aa564cb381e145d3e7b635bb0538fcc0429f55a34` |
 | Blobs on Mainnet | 17 (13 canon · 2 chronicle · 2 meta) |
 | Network | Mainnet |
+| MemWal package | `0xe7c16fbea0560e7057e2bf7422feaa4fb313749fc69c9e9092fac7a33b81d7f5` |
+| DeepSurge | [Continuity Keeper Calibrated](https://www.deepsurge.xyz/projects/fc7587bf-8c8f-4656-bcb1-25bf2b34d3f9) |
 | Demo video | [I Corrected One Fact in Claude Code. Codex Remembered It.](https://www.youtube.com/watch?v=kas0uM6i0yc) |
 | Article | [Every new AI session started from zero until I fixed it with Walrus Memory](https://medium.com/@ajayiisrael523/every-new-ai-session-started-from-zero-until-i-fixed-it-with-walrus-memory-784e68df004b) |
 | Issues filed | [MemWal#729](https://github.com/MystenLabs/MemWal/issues/729) (closed as completed) · [#762](https://github.com/MystenLabs/MemWal/issues/762) |
@@ -22,7 +24,7 @@
 - [x] Dedicated Sessions wallet address
 - [x] Written blog explaining use and problems solved
 - [x] Feedback / GitHub issues on MystenLabs/MemWal — #729, #762
-- [ ] Walrus Discord joined
+- [x] Walrus Discord joined
 - [x] Demo video recorded — [YouTube](https://www.youtube.com/watch?v=kas0uM6i0yc)
-- [ ] Demo video posted with #Walrus on X
-- [ ] Submitted via Airtable **and** WalForm (positions 8–10 are WalForm-exclusive)
+- [x] Demo video posted with #Walrus on X
+- [x] Submitted via Airtable **and** WalForm
