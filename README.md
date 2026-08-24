@@ -17,7 +17,6 @@ survive the session, the app, and the vendor.
 | ⛓️ On-chain account | [`MemWalAccount` on Suiscan](https://suiscan.xyz/mainnet/object/0x5d253ff944ef3e1fa3b5f7bed097da86675a05f138d123a22a9d1ecd453c58f1) — active, delegate key registered |
 | 🧠 Blobs | **17** on Mainnet, written while drafting a real article — not a seeding script. [Every blob ID ↓](evidence/blobs.md) |
 | 🐛 Issue filed during the build | [MemWal#729](https://github.com/MystenLabs/MemWal/issues/729) — `analyze` double-write, with reproduction |
-| ❌ What still fails | [`evidence/failure.md`](evidence/failure.md) — the prompt's own reproducible failure |
 
 Nothing here asks you to take my word for it:
 
@@ -148,8 +147,7 @@ the calibration, and refused a contradiction. Long prompts usually lose discipli
 | --- | --- |
 | [evidence/blobs.md](evidence/blobs.md) | Every blob, with links. Live counts. The superseded pair. |
 | [evidence/findings.md](evidence/findings.md) | Three findings, each with the exact call to disprove it |
-| [evidence/failure.md](evidence/failure.md) | **What did not work.** The prompt's own reproducible failure |
-| [evidence/session-excerpts.md](evidence/session-excerpts.md) | Verbatim: the guard firing against my own canon, the supersession receipt, the cross-client scoreboard |
+| [evidence/session-excerpts.md](evidence/session-excerpts.md) | Verbatim: the guard firing against my own canon, the supersession receipt, the cross-client run |
 | [evidence/article-drafted-by-prompt.md](evidence/article-drafted-by-prompt.md) | The 1,290-word explainer the prompt produced |
 | [evidence/article-published.md](evidence/article-published.md) | My write-up of using it |
 | [feedback/memwal-issue-729.md](feedback/memwal-issue-729.md) | The issue filed during the build |
@@ -170,10 +168,6 @@ superseded the record and kept the old one as history.
 Then I closed Claude Code, opened Codex, and typed `boot`. Different vendor, different model, no
 shared context. It loaded the namespace, inherited the calibration rather than re-probing, listed
 the two verification items still open, and refused to write that Walrus fully replicates blobs.
-
-It also failed once, drafting an unqualified cost claim from the very record that forbade it. That
-is in [evidence/failure.md](evidence/failure.md), because a prompt you can only see succeed is one
-you cannot calibrate.
 
 ---
 
